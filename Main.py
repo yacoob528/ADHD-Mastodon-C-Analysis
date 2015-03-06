@@ -34,8 +34,8 @@ for month in allmonths:
         month.rows_extraction('BNF NAME',med)
 
 
-"""I am not able to finish this code. However, if I had time, I would have plotted a time series plot to obtain a general plot. I hope this will
-show if we have an increasing or decreasing treand.
+"""I am not able to finish this code. However, if I had time, I would have plotted a time series plot to show the trend line. I hope this will
+show if we have an increasing or decreasing trend.
 From there we can answer our question whether ADHD prescriptions are increasing or decreasing."""
 
 
